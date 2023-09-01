@@ -1,2 +1,2 @@
-# MyCalculator
-Testing  git bash
+# Calculator
+Testing commit
